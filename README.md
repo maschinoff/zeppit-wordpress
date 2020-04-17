@@ -7,6 +7,8 @@
 
 ```git submodule update```
 
+```git update-index --assume-unchanged db_data/sql_replace.sql```
+
 1. Put your database dump into the db_data folder and rename it to "latest.sql"
 1. Edit "sql_replace.sql" based on your needs
 1. Put the wp-content folder in the worpdress folder
