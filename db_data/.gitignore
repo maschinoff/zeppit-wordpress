@@ -1,0 +1,2 @@
+*.sql
+!sql_replace.sql
